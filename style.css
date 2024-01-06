@@ -40,6 +40,7 @@ ul {
     color: #F9FAF8;
     display: flex;
     padding: 40px;
+    align-items: center;
 }
 
 .big-text {
