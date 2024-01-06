@@ -15,6 +15,12 @@ body {
     padding-left: 40px;
 }
 
+.header-logo img {
+    height: 150px;
+    padding-top: 30px;
+
+}
+
 a {
     color: #F9FAF8;
     text-decoration: none;
@@ -52,11 +58,15 @@ flex: 1 1 0;
 }
 
 .top-right {
-    background-color: grey;
+    border-radius: 7px;
     justify-content: center;
     align-items: center;
     display: flex;
-    margin-left: 20px;
+}
+
+.image img{
+    max-height: 300px;
+    border-radius: 10px;
 }
 
 button{
